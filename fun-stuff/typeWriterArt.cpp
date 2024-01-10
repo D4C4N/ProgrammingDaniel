@@ -1,3 +1,6 @@
+// Puzzle on CodinGame.com
+// https://www.codingame.com/training/easy/retro-typewriter-art
+
 #include <iostream>
 #include <string>
 #include <sstream>

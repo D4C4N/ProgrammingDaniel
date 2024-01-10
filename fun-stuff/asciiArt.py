@@ -1,3 +1,6 @@
+# Puzzle on CodinGame.com
+# https://www.codingame.com/training/easy/ascii-art
+
 # Variable declaration
 letter_width = int(input())
 letter_height = int(input())
